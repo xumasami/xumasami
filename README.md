@@ -6,9 +6,9 @@ __I'm a freshman from Beijing University of Chemical Technology.__
 <summary>My top languages</summary>
 
 | Rank | Languages     |
-|-----:|---------------|
-|     1|       C       |
-|     2|       Python  |
+|:---:|-----|
+| 1 |       C       |
+| 2 |       Python  |
 
 </details>
 
