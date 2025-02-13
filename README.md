@@ -1,6 +1,13 @@
 ## Hi there 👋
 I'm a student from Beijing University of Chemical Technology.
 
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c861e647-4916-494d-8cc0-9f8f53f548af">
+ <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c861e647-4916-494d-8cc0-9f8f53f548af">
+ <img alt="huhu" src="YOUR-DEFAULT-IMAGE">
+</picture>
+
+
 <!--
 Here are some ideas to get you started:
 
