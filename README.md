@@ -1,11 +1,16 @@
-## Hi there 👋
-I'm a student from Beijing University of Chemical Technology.
+## About me
+__I'm a freshman from Beijing University of Chemical Technology.__
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/c861e647-4916-494d-8cc0-9f8f53f548af">
- <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c861e647-4916-494d-8cc0-9f8f53f548af">
- <img alt="huhu" src="YOUR-DEFAULT-IMAGE">
-</picture>
+<details open>
+ 
+<summary>My top languages</summary>
+
+| Rank | Languages     |
+|-----:|---------------|
+|     1|       C       |
+|     2|       Python  |
+
+</details>
 
 
 <!--
